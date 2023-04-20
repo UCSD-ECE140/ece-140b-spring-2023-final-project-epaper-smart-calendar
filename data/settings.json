@@ -1,0 +1,6 @@
+{
+    "ssid": "DEFAULT_SSID_VAL",
+    "password": "DEFAULT_WIFI_PASSWORD_VAL",
+    "apiKey": "DEFAULT_API_KEY_VAL",
+    "calendarId": "DEFAULT_CALENDAR_ID"
+  }
