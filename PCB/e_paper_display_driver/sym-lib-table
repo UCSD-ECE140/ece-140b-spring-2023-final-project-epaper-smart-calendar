@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "ESP32-WROOM-32D")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/ESP32-WROOM-32D/ESP32-WROOM-32D.kicad_sym")(options "")(descr ""))
+  (lib (name "ME6217C33M5G")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/ME6217C33M5G.kicad_sym")(options "")(descr ""))
+  (lib (name "UMH3N")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/UMH3N.kicad_sym")(options "")(descr ""))
+  (lib (name "S2B-PH-SM4-TB")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/S2B-PH-SM4-TB.kicad_sym")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/TP4056.kicad_sym")(options "")(descr ""))
+)
