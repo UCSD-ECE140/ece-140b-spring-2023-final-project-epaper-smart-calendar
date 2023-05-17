@@ -1,0 +1,20 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "MLTable": "yaml",
+        "\"*.m\":": "\"matlab\"",
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "functional": "cpp",
+        "iconsowm.c": "cpp"
+    },
+    "idf.flashType": "UART"
+}
