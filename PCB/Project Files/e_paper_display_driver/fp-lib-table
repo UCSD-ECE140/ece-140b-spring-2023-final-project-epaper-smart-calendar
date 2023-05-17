@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "ESP32-WROOM-32D")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/ESP32-WROOM-32D.pretty")(options "")(descr ""))
+  (lib (name "ME6217C33M5G")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/ESP32-WROOM-32D/ME6217C33M5G.pretty")(options "")(descr ""))
+  (lib (name "S2B-PH-SM4-TB")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/S2B-PH-SM4-TB.pretty")(options "")(descr ""))
+  (lib (name "SI1308EDL-T1-GE3")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/SI1308EDL-T1-GE3.pretty")(options "")(descr ""))
+  (lib (name "AFC24-S30FIC-00")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/AFC24-S30FIC-00.pretty")(options "")(descr ""))
+  (lib (name "MC-110LS-L100_USBC")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/MC-110LS-L100_USBC.pretty")(options "")(descr ""))
+  (lib (name "L_WPN4020H100MT")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/L_WPN4020H100MT.pretty")(options "")(descr ""))
+  (lib (name "TK-6580S-1")(type "KiCad")(uri "H:/School/Spring Quarter 2023/ECE140B/Epaper/PCB/libraries/TK-6580S-1.pretty")(options "")(descr ""))
+)
